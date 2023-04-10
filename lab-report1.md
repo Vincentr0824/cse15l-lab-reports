@@ -2,6 +2,7 @@
 Let's start with resetting your account password!
 Follow the guide to resetting your account password here: ![Link](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
 
+Let's continue by downloading visual studio!
 Go to this link [Link](https://code.visualstudio.com/) and follow the steps to download the correct vscode for your device.
 
 After opening vscode, it should look like this:

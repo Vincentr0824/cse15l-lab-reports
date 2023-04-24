@@ -25,4 +25,8 @@ Try running the commands ```cd```, ```ls```, ```pwd```, ```mkdir```, and ```cp``
 
 ![Image](Screen Shot 2023-04-24 at 11.41.32 AM.png)
 The commands used in the image above expand on the directories shown from using the simple ```ls``` comand
+
+![Image](Screen Shot 2023-04-24 at 11.48.34 AM.png)
+The command in the image lists files or directories
+
 If you wish to exit the remote server, use the command ```exit``` or press ```Ctrl + D```

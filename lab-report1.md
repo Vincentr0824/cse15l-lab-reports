@@ -9,7 +9,7 @@ After opening vscode, it should look like this:
 ![Image](Screen Shot 2023-04-05 at 3.19.47 PM.png)
 
 Create a text file and open up a new terminal. A new terminal can be opened through the terminal tab. In this terminal, type the command  
-$ ssh cs15lsp23zz@ieng6.ucsd.edu  with the "zz" in the command replaced by the letters in your course specific account (Do not include the "$"!)
+'''$ ssh cs15lsp23zz@ieng6.ucsd.edu'''  with the "zz" in the command replaced by the letters in your course specific account (Do not include the "$"!)
 
 An example of the command being used can be seen here:
 ![Image](Screen Shot 2023-04-05 at 4.05.52 PM.png)
@@ -22,4 +22,4 @@ Now your terminal is remotely connected to a CSE basement computer!
 
 Try running the commands cd, ls, pwd, mkdir, and cp. Here is an example of two of these commands:
 ![Image](Screen Shot 2023-04-05 at 3.46.49 PM.png)
-If you wish to exit the remote server, use the command "exit" or press Ctrl + D
+If you wish to exit the remote server, use the command "exit" or press '''Ctrl + D'''

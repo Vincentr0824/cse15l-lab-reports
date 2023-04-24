@@ -29,4 +29,7 @@ The commands used in the image above expand on the directories shown from using 
 ![Image](Screen Shot 2023-04-24 at 11.48.34 AM.png)
 The command in the image lists files or directories
 
+![Image](Screen Shot 2023-04-24 at 12.00.51 PM.png)
+The command above will read and write the output of a file, depending on the specific directory you lead it to. In this case, it is outputting the contents of a file named "hello.txt"
+
 If you wish to exit the remote server, use the command ```exit``` or press ```Ctrl + D```

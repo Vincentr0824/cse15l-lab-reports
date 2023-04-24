@@ -22,4 +22,4 @@ Now your terminal is remotely connected to a CSE basement computer!
 
 Try running the commands cd, ls, pwd, mkdir, and cp. Here is an example of two of these commands:
 ![Image](Screen Shot 2023-04-05 at 3.46.49 PM.png)
-If you wish to exit the remote server, use the command "exit" or press ```Ctrl + D```
+If you wish to exit the remote server, use the command ```exit``` or press ```Ctrl + D```
